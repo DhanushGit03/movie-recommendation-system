@@ -1,0 +1,28 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment/config files
+.env
+
+# Ignore logs
+*.log
+
+# Optional: Ignore data files if you don't want them in git
+# Uncomment the line below if your data is large or private
+# data/*.csv
