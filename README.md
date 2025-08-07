@@ -19,7 +19,7 @@ This repository contains a simple movie recommendation web app built with Stream
     ```bash
     python -m venv venv
     ```
-    - Activate venv(Virtual Environment): `venv\Scripts\activate`
+    - Activate venv(Virtual Environment): `source venv/Scripts/activate`
     - Deactive venv: `deactivate`
 
 3. **Install dependencies:**
